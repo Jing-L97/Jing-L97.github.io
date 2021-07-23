@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in TESOL, East China Normal University, 2015-2019
+* B.S. in Applied Psychology,East China Normal University, 2015-2019
+* M.RA. in Linguistics and communication sciences, Radboud University Nijmegen, 2020-2022(expected)
 
 Work experience
 ======
