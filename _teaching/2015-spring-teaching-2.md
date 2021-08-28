@@ -1,5 +1,5 @@
 ---
-title: "Languageg and cognition: an introduction to psycholinguistics"
+title: "Language and cognition: an introduction to psycholinguistics"
 collection: teaching
 type: "Elective course"
 permalink: http://www.hs2z.org.cn/
